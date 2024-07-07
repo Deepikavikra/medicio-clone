@@ -1,0 +1,160 @@
+*{
+    margin:0;
+    padding:0;
+}
+#pre-header{
+    background: #3fbbc0;
+    display: flex;
+    height: 36px;
+    color:white;
+} 
+a:hover{
+    color: #3fbbc0;
+}
+.date-info{
+    padding-left: 60px;
+    padding-top: 8px;
+    
+}
+.icons{
+    padding-right: 6px;
+}
+.Contact-info{
+    padding-left: 620px;
+    padding-top: 8px;
+}
+#header{
+    
+    background: white;
+    display: flex;
+    height: 80px;
+}
+.li{
+
+}
+.company-logo{
+
+}
+.button{
+    background: #3fbbc0;
+    color: white;
+    border-radius: 15px;
+    border: 2px solid #3fbbc0;
+    text-align: center;
+    padding: 7px;
+}
+.brand{
+    position: absolute;
+    top: 56px;
+    left: 62px;
+    font-size: 39px;
+    font-family: "Roboto", sans-serif;
+}
+.pages{
+    display: flex;
+    position: absolute;
+    top: 65px;
+    font-size: 20px;
+    left: 340px;
+}
+.menus{
+    display: flex;
+    text-decoration: none;
+
+}
+.menu{
+    display: inline-block;
+}
+.menu-name{
+    text-decoration: none;
+    padding-left: 27px;
+    color: black;
+}
+.apt-btn{
+    position: absolute;
+    background: #3fbbc0;
+    left: 594px;
+    margin: -3px;
+    border-radius: 8px;
+
+}
+#slider{
+    background-image: url(../images/sliders.jpg);
+    height: 85%;
+    width: 1250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.slider-box{
+    background-color: white;
+    position: relative;
+    top: 170px;
+    left: 120px;
+    text-align: center;
+    width: 990px;
+    height: 200px;
+    border-top: 4px solid #3fbbc0;
+    border-radius: 20px;
+}
+.slider-heading{
+    padding-top: 30px;
+    font-size: 36px;
+    word-spacing: 1.5px;
+    letter-spacing: 0.5px;
+
+}
+.slider-info{
+    padding-top: 20px;
+    font-size: 16px;
+}
+.slider-more{
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    background: #3fbbc0;
+    border-radius: 8px;
+    padding: 6px;
+    margin: 15px;
+    text-decoration: none;
+    color: white;
+    margin-left: -21px;
+    
+}
+.services{
+    position: absolute;
+    top: 637px;
+    left: 10px;
+    background-color: #F0FFF0;
+    height: 340px;
+    width: 1210px;
+}
+.box{
+    background: white;
+    display: inline-block;
+    height: 250px;
+    width: 270px;
+    margin: 12px;
+    border-radius: 10px;
+    margin-top: 51px;
+}
+ 
+
+
+.service-icon{
+    font-size: 43px;
+    color: #3fbbc0;
+    margin-top: 22px;
+    margin-left: 22px;
+}
+.service-name{
+    font-size: 26px;
+    padding: 8px;
+}
+.content{
+    text-align: justify;
+    margin-top: 15;
+    font-size: 18px;
+    letter-spacing: 0px;
+    margin: 19px;
+}
